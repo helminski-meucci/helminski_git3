@@ -1,4 +1,11 @@
 .pagamento button {
-    border: 3px solid black;
-    border-radius: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.pagamento {
+    text-align: center;
+    border: 5px solid gold;
+    background-color: bisque;
+    padding: 10px;
 }
